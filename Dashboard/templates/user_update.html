@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update User</title>
+</head>
+<body>
+    <nav>
+        <a href="#">My App</a>
+        <ul>
+            {% if user.is_authenticated %}
+                <li>
+                    <a href="{% url 'group_list' %}">Groups</a>
+                </li>
+                {% if user.user_type == 'student' %}
+                    <li>
+                        <a href="{% url 'student_info' %}">My Info</a>
+                    </li>
+                {% endif %}
+                {% if user.user_type == 'admin' %}
+                    <li>
+                        <a href="{% url 'admin_panel' %}">Admin Panel</a>
+                    </li>
+                {% endif %}
+                <li>
+                    <a href="{% url 'logout' %}">Logout</a>
+                </li>
+            {% else %}
+                <li>
+                    <a href="{% url 'login' %}">Login</a>
+                </li>
+            {% endif %}
+        </ul>
+    </nav>
+
+    <div>
+        {% if messages %}
+            <ul>
+                {% for message in messages %}
+                    <li>{{ message }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+
+        <h2>Update User: {{ user.username }}</h2>
+        <form method="post">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <button type="submit">Update</button>
+        </form>
+    </div>
+
+</body>
+</html>
