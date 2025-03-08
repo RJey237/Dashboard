@@ -1,6 +1,7 @@
 from django.db import models
 from django.contrib.auth.models import AbstractUser
-
+from django.contrib.auth.hashers import make_password
+from django.core.validators import RegexValidator
 
 class CustomUser(AbstractUser):
     class UserTypeEnum(models.TextChoices):
@@ -17,6 +18,7 @@ class CustomUser(AbstractUser):
     telegram_url = models.CharField(max_length=255, blank=True, null=True)
     instagram_url = models.CharField(max_length=255, blank=True, null=True)
     image = models.ImageField(upload_to='profile_images/', blank=True, null=True)
+
 
     class Meta:
         verbose_name_plural = ("Profiles")

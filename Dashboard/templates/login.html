@@ -4,58 +4,52 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .login-container {
+            margin-top: 50px;
+        }
+    </style>
 </head>
 <body>
-    <div>
-        <h2>Login</h2>
-        <form method="post">
-            {% csrf_token %}
-
-            <div>
-                <label for="{{ form.username.id_for_label }}">Username:</label>
-                {{ form.username }}
-                {% if form.username.errors %}
-                    <ul>
-                        {% for error in form.username.errors %}
-                            <li>{{ error }}</li>
-                        {% endfor %}
-                    </ul>
-                {% endif %}
+    <div class="container login-container">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header">
+                        Login
+                    </div>
+                    <div class="card-body">
+                        {% if form.errors %}
+                            <div class="alert alert-danger">
+                                Please enter a correct username and password. Note that both fields may be case-sensitive.
+                            </div>
+                        {% endif %}
+                        <form method="post">
+                            {% csrf_token %}
+                            <div class="form-group">
+                                <label for="{{ form.username.id_for_label }}">Username:</label>
+                                {{ form.username }}
+                            </div>
+                            <div class="form-group">
+                                <label for="{{ form.password.id_for_label }}">Password:</label>
+                                {{ form.password }}
+                            </div>
+                            <button type="submit" class="btn btn-primary btn-block">Login</button>
+                        </form>
+                    </div>
+                </div>
             </div>
-            <div>
-                <label for="{{ form.password.id_for_label }}">Password:</label>
-                {{ form.password }}
-                 {% if form.password.errors %}
-                    <ul>
-                        {% for error in form.password.errors %}
-                            <li>{{ error }}</li>
-                        {% endfor %}
-                    </ul>
-                {% endif %}
-            </div>
-
-            <div>
-                <button type="submit">Login</button>
-            </div>
-
-            {% if messages %}
-                <ul>
-                  {% for message in messages %}
-                    <li{% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
-        </form>
+        </div>
     </div>
-    <h5>Don't have an account?
-        <a href="/register/">
-            <button>Register</button>
-        </a>
-    </h5>
-    <h5>Or continue as a
-        <a href="/home/">
-            <button>Guest</button>
-        </a>
-    </h5>
+
+    <!-- Bootstrap JS (optional, but often needed for certain components) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
