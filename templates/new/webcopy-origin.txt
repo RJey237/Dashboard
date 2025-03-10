@@ -1,0 +1,1500 @@
+Uri: https://cdn.lineicons.com/2.0/fonts/LineIcons.eot
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\2.0\fonts\LineIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.lineicons.com/2.0/fonts/LineIcons.svg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\2.0\fonts\LineIcons.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.lineicons.com/2.0/fonts/LineIcons.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\2.0\fonts\LineIcons.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.lineicons.com/2.0/fonts/LineIcons.woff
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\2.0\fonts\LineIcons.woff
+Content Type: font/woff
+
+Uri: https://cdn.lineicons.com/2.0/fonts/LineIcons.woff2
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\2.0\fonts\LineIcons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.lineicons.com/2.0/LineIcons.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\2.0\LineIcons.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Nunito:400,600,700
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,600,700
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,500,700
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\icon
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/materialicons/v143/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\materialicons\v143\flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\poppins\v22\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\poppins\v22\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\poppins\v22\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\poppins\v22\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\poppins\v22\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\poppins\v22\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\poppins\v22\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\poppins\v22\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\poppins\v22\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\poppins\v22\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\poppins\v22\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\poppins\v22\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\poppins\v22\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\poppins\v22\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\poppins\v22\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+Content Type: font/ttf
+
+Uri: https://static.w3itexpert.com/
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\index.htm
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Accordion
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Accordion.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/AddBlog
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\AddBlog.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/AddContent
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\AddContent.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/AddEmail
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\AddEmail.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Alert
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Alert.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Analytics
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Analytics.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Badge
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Badge.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Blog
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Blog.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/BlogCategory
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\BlogCategory.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Bootstrap
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Bootstrap.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Button
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Button.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/ButtonGroup
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\ButtonGroup.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Calendar
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Calendar.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Cards
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Cards.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Carousel
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Carousel.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Chartist
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Chartist.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Chartjs
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Chartjs.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Checkout
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Checkout.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/CkEditor
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\CkEditor.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Compose
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Compose.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Content
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Content.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/css/style.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\css\style.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/Customers
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Customers.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Datatable
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Datatable.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Dropdown
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Dropdown.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/EmailTemplate
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\EmailTemplate.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/EmptyPage
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\EmptyPage.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Error400
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Error400.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Error403
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Error403.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Error404
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Error404.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Error500
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Error500.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Error503
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Error503.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Event
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Event.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/FeatherIcons
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\FeatherIcons.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Flaticons
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Flaticons.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Flot
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Flot.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/ForgotPassword
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\ForgotPassword.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/FormElements
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\FormElements.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/FormValidate
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\FormValidate.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Grid
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Grid.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/icons/flaticon/flaticon.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\flaticon\flaticon.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/icons/flaticon/Flaticon.eot
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\flaticon\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.w3itexpert.com/static/icons/flaticon/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\flaticon\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.w3itexpert.com/static/icons/flaticon/Flaticon.svg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\flaticon\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://static.w3itexpert.com/static/icons/flaticon/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\flaticon\Flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.w3itexpert.com/static/icons/flaticon/Flaticon.woff
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\flaticon\Flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://static.w3itexpert.com/static/icons/flaticon_1/flaticon_1.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\flaticon_1\flaticon_1.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/icons/flaticon_1/Flaticon_1.eot
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\flaticon_1\Flaticon_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.w3itexpert.com/static/icons/flaticon_1/Flaticon_1.eot?
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\flaticon_1\Flaticon_1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.w3itexpert.com/static/icons/flaticon_1/Flaticon_1.svg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\flaticon_1\Flaticon_1.svg
+Content Type: image/svg+xml
+
+Uri: https://static.w3itexpert.com/static/icons/flaticon_1/Flaticon_1.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\flaticon_1\Flaticon_1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.w3itexpert.com/static/icons/flaticon_1/Flaticon_1.woff
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\flaticon_1\Flaticon_1.woff
+Content Type: application/font-woff
+
+Uri: https://static.w3itexpert.com/static/icons/flaticon_1/Flaticon_1.woff2
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\flaticon_1\Flaticon_1.woff2
+Content Type: font/woff2
+
+Uri: https://static.w3itexpert.com/static/icons/fontawesome/css/all.min.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/icons/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.w3itexpert.com/static/icons/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://static.w3itexpert.com/static/icons/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.w3itexpert.com/static/icons/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://static.w3itexpert.com/static/icons/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.w3itexpert.com/static/icons/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://static.w3itexpert.com/static/icons/fontawesome/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\fontawesome\webfonts\fa-v4compatibility.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.w3itexpert.com/static/icons/fontawesome/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\fontawesome\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://static.w3itexpert.com/static/icons/line-awesome/css/line-awesome.min.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\line-awesome\css\line-awesome.min.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/icons/line-awesome/fonts/la-brands-400.eot
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\line-awesome\fonts\la-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.w3itexpert.com/static/icons/line-awesome/fonts/la-brands-400.eot?
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\line-awesome\fonts\la-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.w3itexpert.com/static/icons/line-awesome/fonts/la-brands-400.svg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\line-awesome\fonts\la-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://static.w3itexpert.com/static/icons/line-awesome/fonts/la-brands-400.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\line-awesome\fonts\la-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.w3itexpert.com/static/icons/line-awesome/fonts/la-brands-400.woff
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\line-awesome\fonts\la-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://static.w3itexpert.com/static/icons/line-awesome/fonts/la-brands-400.woff2
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\line-awesome\fonts\la-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://static.w3itexpert.com/static/icons/line-awesome/fonts/la-regular-400.eot
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\line-awesome\fonts\la-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.w3itexpert.com/static/icons/line-awesome/fonts/la-regular-400.eot?
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\line-awesome\fonts\la-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.w3itexpert.com/static/icons/line-awesome/fonts/la-regular-400.svg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\line-awesome\fonts\la-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://static.w3itexpert.com/static/icons/line-awesome/fonts/la-regular-400.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\line-awesome\fonts\la-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.w3itexpert.com/static/icons/line-awesome/fonts/la-regular-400.woff
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\line-awesome\fonts\la-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://static.w3itexpert.com/static/icons/line-awesome/fonts/la-regular-400.woff2
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\line-awesome\fonts\la-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://static.w3itexpert.com/static/icons/line-awesome/fonts/la-solid-900.eot
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\line-awesome\fonts\la-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.w3itexpert.com/static/icons/line-awesome/fonts/la-solid-900.eot?
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\line-awesome\fonts\la-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.w3itexpert.com/static/icons/line-awesome/fonts/la-solid-900.svg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\line-awesome\fonts\la-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://static.w3itexpert.com/static/icons/line-awesome/fonts/la-solid-900.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\line-awesome\fonts\la-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.w3itexpert.com/static/icons/line-awesome/fonts/la-solid-900.woff
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\line-awesome\fonts\la-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://static.w3itexpert.com/static/icons/line-awesome/fonts/la-solid-900.woff2
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\line-awesome\fonts\la-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://static.w3itexpert.com/static/icons/material-design-iconic-font/css/materialdesignicons.min.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\material-design-iconic-font\css\materialdesignicons.min.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.eot?
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\material-design-iconic-font\fonts\materialdesignicons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.w3itexpert.com/static/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.eot?v=2.4.85
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.w3itexpert.com/static/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.svg?v=2.4.85
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://static.w3itexpert.com/static/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.ttf?v=2.4.85
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.w3itexpert.com/static/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2?v=2.4.85
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://static.w3itexpert.com/static/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff?v=2.4.85
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://static.w3itexpert.com/static/icons/themify-icons/css/themify-icons.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\themify-icons\css\themify-icons.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/icons/themify-icons/fonts/themify.ttf
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\themify-icons\fonts\themify.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.w3itexpert.com/static/icons/themify-icons/fonts/themify.woff
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\themify-icons\fonts\themify.woff
+Content Type: application/font-woff
+
+Uri: https://static.w3itexpert.com/static/icons/themify-icons/fonts/themify9f24.eot?-fvbane
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\themify-icons\fonts\themify9f24.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.w3itexpert.com/static/icons/themify-icons/fonts/themify9f24.svg?-fvbane
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\themify-icons\fonts\themify9f24.svg
+Content Type: image/svg+xml
+
+Uri: https://static.w3itexpert.com/static/icons/themify-icons/fonts/themifyd41d.eot?
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\icons\themify-icons\fonts\themifyd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.w3itexpert.com/static/images/1.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/avatar/1.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\avatar\1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/avatar/2.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\avatar\2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/avatar/3.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\avatar\3.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/avatar/4.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\avatar\4.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/avatar/5.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\avatar\5.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/avatar/6.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\avatar\6.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/big/img1.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\big\img1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/big/img2.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\big\img2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/big/img3.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\big\img3.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/big/img4.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\big\img4.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/big/img5.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\big\img5.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/big/img6.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\big\img6.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/big/img7.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\big\img7.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/big/img8.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\big\img8.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/card/1.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\card\1.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/images/card/2.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\card\2.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/images/card/3.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\card\3.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/images/card/pic6.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\card\pic6.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/card/Untitled-15.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\card\Untitled-15.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/card/Untitled-16.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\card\Untitled-16.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/card/Untitled-17.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\card\Untitled-17.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/contacts/pic1.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\contacts\pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/contacts/pic2.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\contacts\pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/contacts/pic3.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\contacts\pic3.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/dots.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\dots.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/images/dots2.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\dots2.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/images/Ellipse.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\Ellipse.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/images/events/pic1.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\events\pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/events/pic10.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\events\pic10.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/events/pic11.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\events\pic11.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/events/pic12.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\events\pic12.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/events/pic2.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\events\pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/events/pic3.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\events\pic3.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/events/pic4.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\events\pic4.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/events/pic5.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\events\pic5.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/events/pic6.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\events\pic6.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/events/pic7.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\events\pic7.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/events/pic8.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\events\pic8.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/events/pic9.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\events\pic9.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/favicon.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\favicon.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/images/like.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\like.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/images/logo-full.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\logo-full.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/images/logo-text.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\logo-text.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/images/logo.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\logo.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/images/no-img-avatar.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\no-img-avatar.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/images/pattern/icTicket.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\pattern\icTicket.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/images/pattern/pattern5.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\pattern\pattern5.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/images/product/1.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\product\1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/product/2.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\product\2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/product/3.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\product\3.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/product/4.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\product\4.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/product/5.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\product\5.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/product/6.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\product\6.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/product/7.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\product\7.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/1.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/2.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/3.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\3.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/4.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\4.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/5.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\5.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/6.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\6.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/7.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\7.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/8.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\8.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/9.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\9.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/cover.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\cover.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/pic1.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/profile.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\profile.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/images/profile/small/pic1.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\small\pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/small/pic10.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\small\pic10.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/small/pic2.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\small\pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/small/pic3.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\small\pic3.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/small/pic4.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\small\pic4.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/small/pic5.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\small\pic5.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/small/pic6.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\small\pic6.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/small/pic7.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\small\pic7.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/small/pic8.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\small\pic8.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/profile/small/pic9.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\profile\small\pic9.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/qr.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\qr.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/images/tab/1.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\tab\1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/tab/2.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\tab\2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/tab/3.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\tab\3.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/images/tab/4.jpg
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\images\tab\4.jpg
+Content Type: image/jpeg
+
+Uri: https://static.w3itexpert.com/static/Inbox
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Inbox.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Index2
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Index2.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Invoice
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Invoice.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/JqvMap
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\JqvMap.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/js/custom.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\custom.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/dashboard/analytics.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\dashboard\analytics.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/dashboard/dashboard-1.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\dashboard\dashboard-1.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/dashboard/event.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\dashboard\event.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/demo.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\demo.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/deznav-init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\deznav-init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/bs-daterange-picker-init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\bs-daterange-picker-init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/chartist-init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\chartist-init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/chartjs-init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\chartjs-init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/clock-picker-init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\clock-picker-init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/datatables.init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\datatables.init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/flot-init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\flot-init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/fullcalendar-init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\fullcalendar-init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/jquery-asColorPicker.init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\jquery-asColorPicker.init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/jqvmap-init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\jqvmap-init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/material-date-picker-init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\material-date-picker-init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/morris-init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\morris-init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/nestable-init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\nestable-init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/nouislider-init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\nouislider-init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/pickadate-init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\pickadate-init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/piety-init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\piety-init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/select2-init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\select2-init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/sparkline-init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\sparkline-init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/sweetalert.init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\sweetalert.init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/toastr-init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\toastr-init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/plugins-init/widgets-script-init.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\plugins-init\widgets-script-init.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/js/styleSwitcher.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\js\styleSwitcher.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/LightGallery
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\LightGallery.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/ListGroup
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\ListGroup.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/LockScreen
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\LockScreen.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Login
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Login.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Menus
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Menus.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Modal
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Modal.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Morris
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Morris.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Nestable
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Nestable.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/NouiSlider
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\NouiSlider.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Order
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Order.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/OrderList
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\OrderList.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Pagination
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Pagination.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Peity
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Peity.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Pickers
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Pickers.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Popover
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Popover.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/PostDetails
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\PostDetails.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/ProductDetails
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\ProductDetails.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/ProductGrid
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\ProductGrid.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/ProductList
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\ProductList.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Profile
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Profile.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Progressbar
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Progressbar.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Read
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Read.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Register
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Register.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Reviews
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Reviews.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Select2
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Select2.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Sparkline
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Sparkline.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/SVGIcons
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\SVGIcons.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/SweetAlert
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\SweetAlert.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Tab
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Tab.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Toastr
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Toastr.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Typography
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Typography.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/vendor/apexchart/apexchart.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\apexchart\apexchart.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/bootstrap-datepicker-master/css/bootstrap-datepicker.min.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\bootstrap-datepicker-master\css\bootstrap-datepicker.min.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/bootstrap-datepicker-master/js/bootstrap-datepicker.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\bootstrap-datepicker-master\js\bootstrap-datepicker.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/bootstrap-daterangepicker/daterangepicker.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\bootstrap-daterangepicker\daterangepicker.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/bootstrap-daterangepicker/daterangepicker.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\bootstrap-daterangepicker\daterangepicker.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/bootstrap-datetimepicker/css/bootstrap-datetimepicker.min.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\bootstrap-datetimepicker\css\bootstrap-datetimepicker.min.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\bootstrap-datetimepicker\js\bootstrap-datetimepicker.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/bootstrap-datetimepicker/js/moment.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\bootstrap-datetimepicker\js\moment.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/bootstrap-material-datetimepicker/css/bootstrap-material-datetimepicker.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/bootstrap-select/css/bootstrap-select.min.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\bootstrap-select\css\bootstrap-select.min.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/bootstrap-select/js/bootstrap-select.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\bootstrap-select\js\bootstrap-select.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/chartist-plugin-tooltips/js/chartist-plugin-tooltip.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\chartist-plugin-tooltips\js\chartist-plugin-tooltip.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/chartist/css/chartist.min.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\chartist\css\chartist.min.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/chartist/js/chartist.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\chartist\js\chartist.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/chartjs/chart.bundle.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\chartjs\chart.bundle.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/ckeditor/ckeditor.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\ckeditor\ckeditor.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/clockpicker/css/bootstrap-clockpicker.min.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\clockpicker\css\bootstrap-clockpicker.min.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/clockpicker/js/bootstrap-clockpicker.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\clockpicker\js\bootstrap-clockpicker.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/datatables/css/jquery.dataTables.min.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\datatables\css\jquery.dataTables.min.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/datatables/js/jquery.dataTables.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\datatables\js\jquery.dataTables.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/datatables/responsive/responsive.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\datatables\responsive\responsive.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/datatables/responsive/responsive.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\datatables\responsive\responsive.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/dropzone/dist/dropzone.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\dropzone\dist\dropzone.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/dropzone/dist/dropzone.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\dropzone\dist\dropzone.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/flot-spline/jquery.flot.spline.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\flot-spline\jquery.flot.spline.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/flot/jquery.flot.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\flot\jquery.flot.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/flot/jquery.flot.pie.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\flot\jquery.flot.pie.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/flot/jquery.flot.resize.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\flot\jquery.flot.resize.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/fullcalendar/css/main.min.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\fullcalendar\css\main.min.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/fullcalendar/js/main.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\fullcalendar\js\main.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/global/global.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\global\global.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/jquery-ascolor/jquery-asColor.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\jquery-ascolor\jquery-asColor.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/jquery-ascolorPicker/css/asColorPicker.min.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\jquery-ascolorPicker\css\asColorPicker.min.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/jquery-ascolorPicker/images/alpha.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\jquery-ascolorPicker\images\alpha.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/vendor/jquery-ascolorPicker/images/hue.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\jquery-ascolorPicker\images\hue.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/vendor/jquery-ascolorPicker/images/saturation.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\jquery-ascolorPicker\images\saturation.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/vendor/jquery-ascolorPicker/images/transparent.png
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\jquery-ascolorPicker\images\transparent.png
+Content Type: image/png
+
+Uri: https://static.w3itexpert.com/static/vendor/jquery-ascolorPicker/js/jquery-asColorPicker.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\jquery-ascolorPicker\js\jquery-asColorPicker.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/jquery-asgradient/jquery-asGradient.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\jquery-asgradient\jquery-asGradient.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/jquery-smartwizard/dist/css/smart_wizard.min.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\jquery-smartwizard\dist\css\smart_wizard.min.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/jquery-smartwizard/dist/js/jquery.smartWizard.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\jquery-smartwizard\dist\js\jquery.smartWizard.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/jquery-sparkline/jquery.sparkline.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\jquery-sparkline\jquery.sparkline.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/jquery-steps/build/jquery.steps.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\jquery-steps\build\jquery.steps.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/jqvmap/css/jqvmap.min.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\jqvmap\css\jqvmap.min.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/jqvmap/js/jquery.vmap.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\jqvmap\js\jquery.vmap.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/jqvmap/js/jquery.vmap.usa.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\jqvmap\js\jquery.vmap.usa.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/jqvmap/js/jquery.vmap.world.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\jqvmap\js\jquery.vmap.world.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/lightgallery/dist/css/lg-thumbnail.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\lightgallery\dist\css\lg-thumbnail.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/lightgallery/dist/css/lg-zoom.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\lightgallery\dist\css\lg-zoom.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/lightgallery/dist/css/lightgallery.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\lightgallery\dist\css\lightgallery.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/lightgallery/dist/fonts/lg.svg?io9a6k
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\lightgallery\dist\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://static.w3itexpert.com/static/vendor/lightgallery/dist/fonts/lg.ttf?io9a6k
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\lightgallery\dist\fonts\lg.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.w3itexpert.com/static/vendor/lightgallery/dist/fonts/lg.woff2?io9a6k
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\lightgallery\dist\fonts\lg.woff2
+Content Type: font/woff2
+
+Uri: https://static.w3itexpert.com/static/vendor/lightgallery/dist/fonts/lg.woff?io9a6k
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\lightgallery\dist\fonts\lg.woff
+Content Type: application/font-woff
+
+Uri: https://static.w3itexpert.com/static/vendor/lightgallery/dist/images/loading.gif
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\lightgallery\dist\images\loading.gif
+Content Type: image/gif
+
+Uri: https://static.w3itexpert.com/static/vendor/lightgallery/dist/lightgallery.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\lightgallery\dist\lightgallery.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/lightgallery/dist/plugins/thumbnail/lg-thumbnail.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\lightgallery\dist\plugins\thumbnail\lg-thumbnail.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/lightgallery/dist/plugins/zoom/lg-zoom.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\lightgallery\dist\plugins\zoom\lg-zoom.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/metismenu/css/metisMenu.min.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\metismenu\css\metisMenu.min.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/moment/moment.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\moment\moment.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/morris/morris.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\morris\morris.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/nestable2/css/jquery.nestable.min.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\nestable2\css\jquery.nestable.min.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/nestable2/js/jquery.nestable.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\nestable2\js\jquery.nestable.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/nouislider/nouislider.min.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\nouislider\nouislider.min.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/nouislider/nouislider.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\nouislider\nouislider.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/owl-carousel/owl.carousel.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\owl-carousel\owl.carousel.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/owl-carousel/owl.carousel.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\owl-carousel\owl.carousel.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/peity/jquery.peity.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\peity\jquery.peity.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/pickadate/picker.date.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\pickadate\picker.date.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/pickadate/picker.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\pickadate\picker.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/pickadate/picker.time.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\pickadate\picker.time.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/pickadate/themes/default.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\pickadate\themes\default.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/pickadate/themes/default.date.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\pickadate\themes\default.date.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/raphael/raphael.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\raphael\raphael.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/select2/css/select2.min.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\select2\css\select2.min.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/select2/js/select2.full.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\select2\js\select2.full.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/star-rating/jquery.star-rating-svg.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\star-rating\jquery.star-rating-svg.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/star-rating/star-rating-svg.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\star-rating\star-rating-svg.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/sweetalert2/sweetalert2.min.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\sweetalert2\sweetalert2.min.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/sweetalert2/sweetalert2.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\sweetalert2\sweetalert2.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/tagify/tagify.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\tagify\tagify.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/tagify/tagify.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\tagify\tagify.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/toastr/css/toastr.min.css
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\toastr\css\toastr.min.css
+Content Type: text/css
+
+Uri: https://static.w3itexpert.com/static/vendor/toastr/js/toastr.min.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\toastr\js\toastr.min.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/vendor/wnumb/wNumb.js
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\vendor\wnumb\wNumb.js
+Content Type: text/javascript
+
+Uri: https://static.w3itexpert.com/static/Widget
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Widget.html
+Content Type: text/html
+
+Uri: https://static.w3itexpert.com/static/Wizard
+File Name: C:\Downloaded Web Sites\ventic.w3itexpert.com\ventic\Wizard.html
+Content Type: text/html
+

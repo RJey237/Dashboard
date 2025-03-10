@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+sdist/
+*.egg-info/
+
+# Database
+*.sqlite3
+db.sqlite3  # Make sure this is included!
+
+# Django stuff:
+*.log
+*.pot
+
+# Media
+/media/*  #If you don't want to track media. Remove this line if you want to track media
+
+# Static files
+/static/*
+
+# Environments
+.env
+myvenv/  # Replace "myvenv" with your virtual environment name
+venv/
+env/
+ENV/
+
+# OS generated files
+.DS_Store*
+ehthumbs.db
+Thumbs.db
+
+# Other
+*.swp
+local_settings.py
+secret_key.txt
+
+#VSCode
+.vscode/
+
+# PyCharm
+.idea/
+*.iml

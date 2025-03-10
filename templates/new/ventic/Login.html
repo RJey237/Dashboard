@@ -1,0 +1,225 @@
+﻿{% load static i18n %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% trans "Login" %}</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(to right, #141e30, #243b55);
+        }
+
+        .wrapper {
+            display: flex;
+            align-items: center;
+            gap: 80px;
+            width: 100%;
+            max-width: 1200px;
+            padding: 50px;
+            position: relative;
+        }
+
+        .logo {
+            position: absolute;
+            top: -150px;
+            left: -100px;
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            background: rgba(0, 0, 0, 0.3);
+            padding: 15px;
+            box-shadow: 0 4px 12px rgba(255, 255, 255, 0.2);
+        }
+
+        .forgot-password {
+            margin-top: 10px;
+        }
+
+        .forgot-password a {
+            color: #2F80ED;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 16px;
+            transition: 0.3s;
+        }
+
+        .forgot-password a:hover {
+            color: #1c6dd0;
+            text-decoration: underline;
+        }
+
+        .sidebar {
+            color: white;
+            font-size: 50px;
+            font-weight: bold;
+            text-transform: uppercase;
+            border-left: 8px solid white;
+            padding-left: 30px;
+            line-height: 1.2;
+            margin-left: -50px;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 50px;
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            text-align: center;
+            width: 500px;
+            color: white;
+        }
+
+        h2 {
+            margin-bottom: 20px;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        label {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 5px;
+            text-align: left;
+            width: 100%;
+            max-width: 350px;
+            color: #ddd;
+        }
+
+        input {
+            padding: 14px;
+            width: 100%;
+            max-width: 350px;
+            border: none;
+            border-radius: 8px;
+            font-size: 18px;
+            text-align: center;
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            outline: none;
+            margin-bottom: 10px;
+        }
+
+        input::placeholder {
+            color: rgba(255, 255, 255, 0.7);
+        }
+
+        button {
+            padding: 14px;
+            width: 100%;
+            max-width: 350px;
+            background: #2F80ED;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 10px;
+            font-size: 20px;
+            font-weight: bold;
+            transition: 0.3s;
+            margin-top: 15px;
+            box-shadow: 0 5px 15px rgba(47, 128, 237, 0.3);
+        }
+
+        button:hover {
+            background: #1c6dd0;
+        }
+
+        @media (max-width: 1024px) {
+            .wrapper {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .sidebar {
+                font-size: 40px;
+                padding-left: 0;
+                border-left: none;
+                margin-left: 0;
+            }
+
+
+            .container {
+                width: 90%;
+            }
+        }
+        .text-danger {
+            color: #dc3545; /* Bootstrap's default red */
+            font-size: 0.875rem; /* Smaller font size for better readability */
+            margin-top: 0.25rem; /* Space below the input */
+        }
+
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <img src="data:image/png;base64,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" alt="Logo" class="logo">
+        <div class="sidebar">{% trans "FINTECH INNOVATIONHUB O'QUV MARKAZI" %}</div>
+
+        <div class="container">
+            <h2>{% trans "Sign in" %}</h2>
+            <form method="post">
+                {% csrf_token %}
+                {% if form.non_field_errors %}
+                    <div class="text-danger">
+                        {% for error in form.non_field_errors %}
+                            {% trans error %}
+                        {% endfor %}
+                    </div>
+                {% endif %}
+
+                <label class="mb-1 form-label" for="id_username">{% trans "Username:" %}</label>
+                <input type="text" class="form-control {% if form.errors.username %}is-invalid{% endif %}" id="id_username" name="username" placeholder="Enter username" required>
+                {% if form.errors.username %}
+                    <div class="text-danger">
+                        {% for error in form.errors.username %}
+                            {% trans error %}
+                        {% endfor %}
+                    </div>
+                {% endif %}
+
+                <label class="mb-1 form-label" for="id_password">{% trans "Password:" %}</label>
+                <input type="password" class="form-control {% if form.errors.password %}is-invalid{% endif %}" id="id_password" name="password" placeholder="Enter password" required>
+                {% if form.errors.password %}
+                    <div class="text-danger">
+                        {% for error in form.errors.password %}
+                            {% trans error %}
+                        {% endfor %}
+                    </div>
+                {% endif %}
+
+                <div class="form-row d-flex  flex-wrap justify-content-between mt-4 mb-2">
+                    <div class="form-group">
+                        <div class="form-check custom-checkbox ms-1">
+                            <input type="checkbox" class="form-check-input" id="basic_checkbox_1">
+                            <label class="form-check-label" for="basic_checkbox_1">{% trans "Remember my preference" %}</label>
+                        </div>
+                    </div>
+                     <div class="form-group">
+                        <a class="text-hover forgot-password" href="{% url 'password_reset' %}">{% trans "Forgot Password?" %}</a>
+                    </div>
+                 </div>
+                <button type="submit">{% trans "Login" %}</button>
+
+            </form>
+        </div>
+    </div>
+</body>
+</html>
