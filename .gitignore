@@ -18,11 +18,7 @@ db.sqlite3  # Make sure this is included!
 *.log
 *.pot
 
-# Media
-/media/*  #If you don't want to track media. Remove this line if you want to track media
 
-# Static files
-/static/*
 
 # Environments
 .env
