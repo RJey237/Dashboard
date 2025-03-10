@@ -1,124 +1,114 @@
-﻿<!DOCTYPE html>
+﻿{% extends "ventic/base.html" %}
+{% load static %}
+{% load static i18n %}
 
-	<html lang="en">
+                                            
 
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-	<meta name="description" content="Smarthr - Bootstrap Admin Template">
-	<meta name="keywords" content="admin, estimates, bootstrap, business, html5, responsive, Projects">
-	<meta name="author" content="Dreams technologies - Bootstrap Admin Template">
-	<meta name="robots" content="noindex, nofollow">
-	<title>Smarthr Admin Template</title>
-
+{% block content %}
 
     <!-- Apple Touch Icon -->
-<link rel="apple-touch-icon" sizes="180x180" href="build/img/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="{% static 'build/img/apple-touch-icon.png' %}">
 
 <!-- Favicon -->
-<link rel="shortcut icon" type="image/x-icon" href="build/img/favicon.png">
+<link rel="shortcut icon" type="image/x-icon" href="{% static 'build/img/favicon.png' %}">
 
 <!-- Theme Script js -->
-<script src="build/js/theme-script.js" type="5bd754b086aa201ae4a266ad-text/javascript"></script>
+<script src="{% static 'build/js/theme-script.js' %}" type="5bd754b086aa201ae4a266ad-text/javascript"></script>
 
 <!-- Bootstrap CSS -->
-<link rel="stylesheet" href="build/css/bootstrap.min.css">
+<link rel="stylesheet" href="{% static 'build/css/bootstrap.min.css' %}">
 
 
 <!-- Fancybox CSS -->
-<link rel="stylesheet" href="build/plugins/fancybox/jquery.fancybox.min.css">
+<link rel="stylesheet" href="{% static 'build/plugins/fancybox/jquery.fancybox.min.css' %}">
 
 <!-- Feather CSS -->
-<link rel="stylesheet" href="build/plugins/icons/feather/feather.css">
+<link rel="stylesheet" href="{% static 'build/plugins/icons/feather/feather.css' %}">
 
 <!-- Tabler Icon CSS -->
-<link rel="stylesheet" href="build/plugins/icons/bootstrap/bootstrap-icons.min.css">
+<link rel="stylesheet" href="{% static 'build/plugins/icons/bootstrap/bootstrap-icons.min.css' %}">
 
 <!-- Tabler Icon CSS -->
-<link rel="stylesheet" href="build/plugins/tabler-icons/tabler-icons.css">
+<link rel="stylesheet" href="{% static 'build/plugins/tabler-icons/tabler-icons.css' %}">
 
 
 <!-- Select2 CSS -->
-<link rel="stylesheet" href="build/plugins/select2/css/select2.min.css">
-
-
-
-
+<link rel="stylesheet" href="{% static 'build/plugins/select2/css/select2.min.css' %}">
 
 
 <!-- Fontawesome CSS -->
-<link rel="stylesheet" href="build/plugins/fontawesome/css/fontawesome.min.css">
-<link rel="stylesheet" href="build/plugins/fontawesome/css/all.min.css">
+<link rel="stylesheet" href="{% static 'build/plugins/fontawesome/css/fontawesome.min.css' %}">
+<link rel="stylesheet" href="{% static 'build/plugins/fontawesome/css/all.min.css' %}">
 
  <!-- Color Picker Css -->
-<link rel="stylesheet" href="build/plugins/flatpickr/flatpickr.min.css">
-<link rel="stylesheet" href="build/plugins/%40simonwep/pickr/themes/nano.min.css">
+<link rel="stylesheet" href="{% static 'build/plugins/flatpickr/flatpickr.min.css' %}">
+<link rel="stylesheet" href="{% static 'build/plugins/%40simonwep/pickr/themes/nano.min.css' %}">
 
 <!-- Daterangepikcer CSS -->
-<link rel="stylesheet" href="build/plugins/daterangepicker/daterangepicker.css">
+<link rel="stylesheet" href="{% static 'build/plugins/daterangepicker/daterangepicker.css' %}">
 
 <!-- Owl carousel CSS -->
-<link rel="stylesheet" href="build/css/owl.carousel.min.css">
+<link rel="stylesheet" href="{% static 'build/css/owl.carousel.min.css' %}">
 
 <!-- Datatable CSS -->
-<link rel="stylesheet" href="build/css/dataTables.bootstrap5.min.css">
+<link rel="stylesheet" href="{% static 'build/css/dataTables.bootstrap5.min.css' %}">
 
 <!-- Player CSS -->
-<link rel="stylesheet" href="build/css/plyr.css">
+<link rel="stylesheet" href="{% static 'build/css/plyr.css' %}">
 
 <!-- Owl Carousel -->
-<link rel="stylesheet" href="build/plugins/owlcarousel/owl.carousel.min.css">
+<link rel="stylesheet" href="{% static 'build/plugins/owlcarousel/owl.carousel.min.css' %}">
 
 <!-- Summernote CSS -->
-<link rel="stylesheet" href="build/plugins/summernote/summernote-lite.min.css">
+<link rel="stylesheet" href="{% static 'build/plugins/summernote/summernote-lite.min.css' %}">
 
 <!-- Datetimepicker CSS -->
-<link rel="stylesheet" href="build/css/bootstrap-datetimepicker.min.css">
+<link rel="stylesheet" href="{% static 'build/css/bootstrap-datetimepicker.min.css' %}">
 
 <!-- Select2 CSS -->
-<link rel="stylesheet" href="build/plugins/select2/css/select2.min.css">
+<link rel="stylesheet" href="{% static 'build/plugins/select2/css/select2.min.css' %}">
 
 <!-- Dragula CSS -->
-<link rel="stylesheet" href="build/plugins/dragula/css/dragula.min.css">
+<link rel="stylesheet" href="{% static 'build/plugins/dragula/css/dragula.min.css' %}">
 
 <!-- ChartC3 CSS -->
-<link rel="stylesheet" href="build/plugins/c3-chart/c3.min.css">
+<link rel="stylesheet" href="{% static 'build/plugins/c3-chart/c3.min.css' %}">
 
 <!-- Bootstrap Tagsinput CSS -->
-<link rel="stylesheet" href="build/plugins/bootstrap-tagsinput/bootstrap-tagsinput.css">
+<link rel="stylesheet" href="{% static 'build/plugins/bootstrap-tagsinput/bootstrap-tagsinput.css' %}">
 
 <!-- Rangeslider CSS -->
-<link rel="stylesheet" href="build/plugins/ion-rangeslider/css/ion.rangeSlider.min.css">
+<link rel="stylesheet" href="{% static 'build/plugins/ion-rangeslider/css/ion.rangeSlider.min.css' %}">
 
 
 <!-- Morris CSS -->
-<link rel="stylesheet" href="build/plugins/morris/morris.css">
+<link rel="stylesheet" href="{% static 'build/plugins/morris/morris.css' %}">
 
 <!-- Material CSS -->
-<link rel="stylesheet" href="build/plugins/material/materialdesignicons.css">
+<link rel="stylesheet" href="{% static 'build/plugins/material/materialdesignicons.css' %}">
 
 <!-- Pe7 CSS -->
-<link rel="stylesheet" href="build/plugins/icons/pe7/pe-icon-7.css">
+<link rel="stylesheet" href="build/plugins/icons/pe7/pe-icon-7.css' %}">
 
 
 
-<link rel="stylesheet" href="build/plugins/flatpickr/flatpickr.css">
-<link rel="stylesheet" href="build/plugins/bootstrap-datepicker/bootstrap-datepicker.css">
-<link rel="stylesheet" href="build/plugins/jquery-timepicker/jquery-timepicker.css">
-<link rel="stylesheet" href="build/plugins/pickr/pickr-themes.css">
+<link rel="stylesheet" href="{% static 'build/plugins/flatpickr/flatpickr.css' %}">
+<link rel="stylesheet" href="{% static 'build/plugins/bootstrap-datepicker/bootstrap-datepicker.css' %}">
+<link rel="stylesheet" href="{% static 'build/plugins/jquery-timepicker/jquery-timepicker.css' %}">
+<link rel="stylesheet" href="{% static 'build/plugins/pickr/pickr-themes.css' %}">
 
 
 <!-- Pe7 CSS -->
-<link rel="stylesheet" href="build/plugins/icons/typicons/typicons.css">
+<link rel="stylesheet" href="{% static 'build/plugins/icons/typicons/typicons.css' %}">
 
 <!-- Pe7 CSS -->
-<link rel="stylesheet" href="build/plugins/icons/flags/flags.css">
+<link rel="stylesheet" href="{% static 'build/plugins/icons/flags/flags.css' %}">
 
 <!-- Pe7 CSS -->
-<link rel="stylesheet" href="build/plugins/icons/weather/weathericons.css">
+<link rel="stylesheet" href="{% static 'build/plugins/icons/weather/weathericons.css' %}">
 
 <!-- Main CSS -->
-<link rel="stylesheet" href="build/css/style.css"></head>
+<link rel="stylesheet" href="{% static 'build/css/style.css' %}"></head>
 
 <body>
 
@@ -127,7 +117,7 @@
 
 
 
-
+<!-- hammasi qovotti chunki main wrapper yoq u boshqa ekan , qogani baseda yoq -->
 
 
 
@@ -140,10 +130,10 @@
 
         <div class="header-left">
             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/index" class="logo">
-                <img src="build/img/logo.svg" alt="Logo">
+                <img src="{% static 'build/img/logo.svg' %}" alt="Logo">
             </a>
             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/index" class="dark-logo">
-                <img src="build/img/logo-white.svg" alt="Logo">
+                <img src="{% static 'build/img/logo-white.svg' %}" alt="Logo">
             </a>
         </div>
 
@@ -169,10 +159,10 @@
                         </span>
                         <input type="text" class="form-control" placeholder="Search in HRMS">
                         <span class="input-group-text">
-                            <kbd>CTRL + / </kbd>
+                            <kbd>{% trans "CTRL + /" %} </kbd>
                         </span>
                     </div>
-                    <!-- /Search -->
+                    <!-- /Search -->                                                      
                     <div class="dropdown crm-dropdown">
                         <a href="#" class="btn btn-menubar me-1" data-bs-toggle="dropdown">
                             <i class="ti ti-layout-grid"></i>
@@ -180,26 +170,26 @@
                         <div class="dropdown-menu dropdown-lg dropdown-menu-start">
                             <div class="card mb-0 border-0 shadow-none">
                                 <div class="card-header">
-                                    <h4>CRM</h4>
+                                    <h4>{% trans "CRM" %}</h4>
                                 </div>
                                 <div class="card-body pb-1">		
                                     <div class="row">
                                         <div class="col-sm-6">							
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/contacts" class="d-flex align-items-center justify-content-between p-2 crm-link mb-3">
                                                 <span class="d-flex align-items-center me-3">
-                                                    <i class="ti ti-user-shield text-default me-2"></i>Contacts
+                                                    <i class="ti ti-user-shield text-default me-2"></i>{% trans "Contacts" %}
                                                 </span>
                                                 <i class="ti ti-arrow-right"></i>
                                             </a>							
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/deals-grid" class="d-flex align-items-center justify-content-between p-2 crm-link mb-3">
                                                 <span class="d-flex align-items-center me-3">
-                                                    <i class="ti ti-heart-handshake text-default me-2"></i>Deals
+                                                    <i class="ti ti-heart-handshake text-default me-2"></i>{% trans "Deals " %}
                                                 </span>
                                                 <i class="ti ti-arrow-right"></i>
                                             </a>								
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/pipeline" class="d-flex align-items-center justify-content-between p-2 crm-link mb-3">
                                                 <span class="d-flex align-items-center me-3">
-                                                    <i class="ti ti-timeline-event-text text-default me-2"></i>Pipeline
+                                                    <i class="ti ti-timeline-event-text text-default me-2"></i>{% trans "Pipeline" %}
                                                 </span>
                                                 <i class="ti ti-arrow-right"></i>
                                             </a>		
@@ -207,19 +197,19 @@
                                         <div class="col-sm-6">							
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/companies-grid" class="d-flex align-items-center justify-content-between p-2 crm-link mb-3">
                                                 <span class="d-flex align-items-center me-3">
-                                                    <i class="ti ti-building text-default me-2"></i>Companies
+                                                    <i class="ti ti-building text-default me-2"></i>{% trans "Companies" %}
                                                 </span>
                                                 <i class="ti ti-arrow-right"></i>
                                             </a>								
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/leads-grid" class="d-flex align-items-center justify-content-between p-2 crm-link mb-3">
                                                 <span class="d-flex align-items-center me-3">
-                                                    <i class="ti ti-user-check text-default me-2"></i>Leads
+                                                    <i class="ti ti-user-check text-default me-2"></i>{% trans "Leads" %}
                                                 </span>
                                                 <i class="ti ti-arrow-right"></i>
                                             </a>								
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/activity" class="d-flex align-items-center justify-content-between p-2 crm-link mb-3">
                                                 <span class="d-flex align-items-center me-3">
-                                                    <i class="ti ti-activity text-default me-2"></i>Activities
+                                                    <i class="ti ti-activity text-default me-2"></i>{% trans "Activities" %}
                                                 </span>
                                                 <i class="ti ti-arrow-right"></i>
                                             </a>		
@@ -240,168 +230,168 @@
                         <div class="main-menu">
                             <ul class="nav-menu">
                                 <li class="menu-title">
-                                    <span>Main</span>
+                                    <span>{% trans "Main" %}</span>
                                 </li>
                                 <li class="submenu">
                                     <a href="#" class="">
-                                        <i class="ti ti-smart-home"></i><span>Dashboard</span>
+                                        <i class="ti ti-smart-home"></i><span>{% trans "Dashboard " %}</span>
                                         <span class="menu-arrow"></span>
                                     </a>
                                     <ul>
-                                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/index" class="">Admin Dashboard</a></li>
-                                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/employee-dashboard" class="">Employee Dashboard</a></li>
-                                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/deals-dashboard" class="">Deals Dashboard</a></li>
-                                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/leads-dashboard" class="">Leads Dashboard</a></li>                                    </ul>
+                                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/index" class="">{% trans "Admin Dashboard" %}</a></li>
+                                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/employee-dashboard" class="">{% trans "Employee Dashboard" %}</a></li>
+                                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/deals-dashboard" class="">{% trans "Deals Dashboard" %}</a></li>
+                                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/leads-dashboard" class="">{% trans "Leads Dashboard" %}</a></li>                                    </ul>
                                 </li>
                                 <li class="submenu">
                                     <a href="#" class="">
-                                        <i class="ti ti-user-star"></i><span>Super Admin</span>
+                                        <i class="ti ti-user-star"></i><span>{% trans "Super Admin" %}</span>
                                         <span class="menu-arrow"></span>
                                     </a>
                                     <ul>
-                                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/dashboard" class="">Dashboard</a></li>
-                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/companies" class="">Companies</a></li>
-                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/subscription" class="">Subscriptions</a></li>
-                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/packages" class="">Packages</a></li>
-                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/domain" class="">Domain</a></li>
-                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/purchase-transaction" class="">Purchase Transaction</a></li>
+                                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/dashboard" class="">{% trans "Dashboard " %}</a></li>
+                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/companies" class="">{% trans "Companies" %}</a></li>
+                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/subscription" class="">{% trans "Subscriptions" %}</a></li>
+                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/packages" class="">{% trans "Packages" %}</a></li>
+                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/domain" class="">{% trans "Domain" %}</a></li>
+                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/purchase-transaction" class="">{% trans "Purchase Transaction" %}</a></li>
                                     </ul>
                                 </li>
                                 <li class="submenu">
                                     <a href="#" class="">
-                                        <i class="ti ti-layout-grid-add"></i><span>Applications</span>
+                                        <i class="ti ti-layout-grid-add"></i><span>{% trans "Applications " %}</span>
                                         <span class="menu-arrow"></span>
                                     </a>
                                     <ul>
-                                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/chat" class="">Chat</a></li>
+                                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/chat" class="">{% trans "Chat" %}</a></li>
                                         <li class="submenu submenu-two">
-                                            <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/call" class="">Calls<span class="menu-arrow inside-submenu"></span></a>
+                                            <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/call" class="">{% trans "Calls" %}<span class="menu-arrow inside-submenu"></span></a>
                                             <ul>
-                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/voice-call" class="">Voice Call</a></li>
-                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/video-call" class="">Video Call</a></li>
-                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/outgoing-call" class="">Outgoing Call</a></li>
-                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/incoming-call" class="">Incoming Call</a></li>
-                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/call-history" class="">Call History</a></li>
+                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/voice-call" class="">{% trans "Voice Call" %}</a></li>
+                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/video-call" class="">{% trans "Video Call" %}</a></li>
+                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/outgoing-call" class="">{% trans "Outgoing Call" %}</a></li>
+                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/incoming-call" class="">{% trans "Incoming Call " %}</a></li>
+                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/call-history" class="">{% trans "Call History" %}</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/calendar" class="">Calendar</a></li>
-                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/email" class="">Email</a></li>
-                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/todo" class="">To Do</a></li>
-                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/notes" class="">Notes</a></li>
-                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/social-feed" class="">Social Feed</a></li>
-                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/file-manager" class="">File Manager</a></li>
-                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/kanban-view" class="">Kanban</a></li>
-                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/invoices" class="">Invoices</a></li>
+                                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/calendar" class="">{% trans "Calendar" %}</a></li>
+                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/email" class="">{% trans "Email" %}</a></li>
+                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/todo" class="">{% trans "To Do" %}</a></li>
+                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/notes" class="">{% trans "Notes" %}</a></li>
+                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/social-feed" class="">{% trans "Social Feed " %}</a></li>
+                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/file-manager" class="">{% trans "File Manager" %}</a></li>
+                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/kanban-view" class="">{% trans "Kanban" %}</a></li>
+                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/invoices" class="">{% trans "Invoices" %}</a></li>
                                     </ul>
                                 </li>
                                 <li class="submenu">
                                     <a href="#" class="">
-                                        <i class="ti ti-layout-board-split"></i><span>Layouts</span>
+                                        <i class="ti ti-layout-board-split"></i><span>{% trans "Layouts " %}</span>
                                         <span class="menu-arrow"></span>
                                     </a>
                                     <ul>
                                         <li>
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/layout-horizontal" class="">
-                                                <span>Horizontal</span>
+                                                <span>{% trans "Horizontal " %}</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/layout-detached" class="">
-                                                <span>Detached</span>
+                                                <span>{% trans "Detached" %}</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/layout-modern" class="">
-                                                <span>Modern</span>
+                                                <span>{% trans "Modern" %}</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/layout-two-column" class="">
-                                                <span>Two Column </span>
+                                                <span>{% trans "Two Column " %}</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/layout-hovered" class="">
-                                                <span>Hovered</span>
+                                                <span>{% trans "Hovered" %}</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/layout-box" class="">
-                                                <span>Boxed</span>
+                                                <span>{% trans "Boxed" %}</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/layout-horizontal-single" class="">
-                                                <span>Horizontal Single</span>
+                                                <span>{% trans "Horizontal Single" %}</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/layout-horizontal-overlay" class="">
-                                                <span>Horizontal Overlay</span>
+                                                <span>{% trans "Horizontal Overlay" %}</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/layout-horizontal-box" class="">
-                                                <span>Horizontal Box</span>
+                                                <span>{% trans "Horizontal Box" %}</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/layout-horizontal-sidemenu" class="">
-                                                <span>Menu Aside</span>
+                                                <span>{% trans "Menu Aside" %}</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/layout-vertical-transparent" class="">
-                                                <span>Transparent</span>
+                                                <span>{% trans "Transparent" %}</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/layout-without-header" class="">
-                                                <span>Without Header</span>
+                                                <span>{% trans "Without Header " %}</span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/layout-rtl" class="">
-                                                <span>RTL</span>
+                                                <span>{% trans "RTL" %}</span>
                                             </a>
                                         </li>
                                         <li> 
                                             <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/layout-dark" class="">
-                                                <span>Dark</span>
+                                                <span>{% trans "Dark" %}</span>
                                             </a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li class="submenu">
                                     <a href="#" class="active ">
-                                        <i class="ti ti-user-star"></i><span>Projects</span>
+                                        <i class="ti ti-user-star"></i><span>{% trans "Projects" %}</span>
                                         <span class="menu-arrow"></span>
                                     </a>
                                     <ul>
                                         <li>
-                                            <a href="clients-grid.html" class="active"><span>Clients</span>
+                                            <a href="clients-grid.html" class="active"><span>{% trans "Clients" %}</span>
                                             </a>
                                         </li>
                                         <li class="submenu">
-                                            <a href="javascript:void(0);" class=""><span>Projects</span>
+                                            <a href="javascript:void(0);" class=""><span>{% trans "Projects" %}</span>
                                                 <span class="menu-arrow"></span>
                                             </a>
                                             <ul>
-                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/projects-grid" class="">Projects</a></li>
-                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/tasks" class="">Tasks</a></li>
-                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/task-board" class="">Task Board</a></li>
+                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/projects-grid" class="">{% trans "Projects " %}</a></li>
+                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/tasks" class="">{% trans "Tasks " %}</a></li>
+                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/task-board" class="">{% trans "Task Board" %}</a></li>
                                             </ul>
                                         </li>		
                                         <li class="submenu">
-                                            <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/call" class="">Crm<span class="menu-arrow"></span></a>
+                                            <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/call" class="">{% trans "Crm" %}<span class="menu-arrow"></span></a>
                                             <ul>
-                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/contacts-grid" class=""><span>Contacts</span></a></li>
-                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/companies-grid" class=""><span>Companies</span></a></li>
-                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/deals-grid" class=""><span>Deals</span></a></li>
-                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/leads-grid" class=""><span>Leads</span></a></li>
-                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/pipeline" class=""><span>Pipeline</span></a></li>
-                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/analytics" class=""><span>Analytics</span></a></li>
-                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/activity" class=""><span>Activities</span></a></li>
+                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/contacts-grid" class=""><span>{% trans "Contacts" %}</span></a></li>
+                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/companies-grid" class=""><span>{% trans "Companies" %}</span></a></li>
+                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/deals-grid" class=""><span>{% trans "Deals" %}</span></a></li>
+                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/leads-grid" class=""><span>{% trans "Leads" %}</span></a></li>
+                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/pipeline" class=""><span>{% trans "Pipeline" %}</span></a></li>
+                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/analytics" class=""><span>{% trans "Analytics" %}</span></a></li>
+                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/activity" class=""><span>{% trans "Activities" %}</span></a></li>
                                             </ul>
                                         </li>
                                         <li class="submenu">
@@ -409,12 +399,12 @@
                                                 <span class="menu-arrow"></span>
                                             </a>
                                             <ul>
-                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/employees" class="">Employee Lists</a></li>
-                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/employees-grid" class="">Employee Grid</a></li>
-                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/employee-details" class="">Employee Details</a></li>
-                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/departments" class="">Departments</a></li>
-                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/designations" class="">Designations</a></li>
-                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/policy" class="">Policies</a></li>
+                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/employees" class="">{% trans "Employee Lists" %}</a></li>
+                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/employees-grid" class="">{% trans "Employee Grid " %}</a></li>
+                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/employee-details" class="">{% trans "Employee Details" %}</a></li>
+                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/departments" class="">{% trans "Departments" %}</a></li>
+                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/designations" class="">{% trans "Designations" %}</a></li>
+                                                <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/policy" class="">{% trans "Policies" %}</a></li>
                                             </ul>
                                         </li>
                                         <li class="submenu">
@@ -622,7 +612,7 @@
                                                 <li class="submenu">
                                                     <a href="javascript:void(0);" class="">Other Settings<span class="menu-arrow"></span></a>
                                                     <ul>
-                                                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/custom-css" class="">Custom CSS</a></li>
+                                                        <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/custom-' %}" class="">Custom CSS</a></li>
                                         <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/custom-js" class="">Custom JS</a></li>
                                         <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/cronjob" class="">Cronjob</a></li>
                                         <li><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/storage-settings" class="">Storage</a></li>
@@ -1302,7 +1292,7 @@
     <!-- Logo -->
     <div class="sidebar-logo">
         <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/index" class="logo logo-normal">
-            <img src="build/img/logo.svg" alt="Logo">
+            <img src="{% static 'build/img/logo.svg" alt="Logo">
         </a>
         <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/index" class="logo-small">
             <img src="build/img/logo-small.svg" alt="Logo">
@@ -7455,3 +7445,5 @@
 <script src="build/js/script.js" type="5bd754b086aa201ae4a266ad-text/javascript"></script><script src="../../../cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="5bd754b086aa201ae4a266ad-|49" defer=""></script></body>
 
 </html>
+
+{% endblock %}
