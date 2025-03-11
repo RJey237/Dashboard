@@ -14,7 +14,7 @@ class CustomUser(AbstractUser):
     address = models.CharField(max_length=255, blank=True, null=True)
     date_of_birth = models.DateField(blank=True, null=True)
     contact_number = models.CharField(max_length=20, blank=True, null=True)
-    linkedin_url = models.CharField(blank=True, null=True)
+    linkedin_url = models.CharField(max_length=255,blank=True, null=True)
     telegram_url = models.CharField(max_length=255, blank=True, null=True)
     instagram_url = models.CharField(max_length=255, blank=True, null=True)
     image = models.ImageField(upload_to='profile_images/', blank=True, null=True)
